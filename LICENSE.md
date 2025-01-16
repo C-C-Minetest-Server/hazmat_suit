@@ -19,6 +19,8 @@
     You should have received a copy of the GNU Lesser General Public
     License along with this library; if not, see <https://www.gnu.org/licenses/>.
 
-## License of media: WTFPL
+## License of media: CC0
 
 License Textures: HybridDog and numberZero - 2015-2017 WTFPL
+
+The above textures are relicenced under [CC0](https://creativecommons.org/public-domain/cc0/).
